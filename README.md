@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋, I am a Front End Developer with experience of over 3 years.
+
+
 
 <!--
 **diggis00/diggis00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
